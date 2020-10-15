@@ -1,0 +1,22 @@
+h1 {
+	color: darkblue;
+	text-align: center;
+	border: 2px solid yellow;
+	background-color: lightblue
+}
+.Amenities {
+	color: purple;
+}
+.Nearby {
+	color: Red;
+}
+p {
+	color: blue;
+}
+* {
+	background-color: floralwhite;
+	font-family: Comic Sans MS, sans-serif;
+}
+img {
+	border: 2px solid green;
+}
